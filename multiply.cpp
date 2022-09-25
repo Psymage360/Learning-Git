@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<5*3<<endl;
+    int a,b;
+    cin>>a>>b;
+    cout<<a*b<<endl;
     return 0;
 }
